@@ -1,0 +1,14 @@
+
+Team members with each one's task:
+
+Xie Yubo -- Team leading and Algorithm Design
+
+Li Binbin -- User Interface
+
+Zhao Xiaobo -- Lexicon Construction and System Testing
+
+Li Yinkai -- Implementation and Debugging
+
+
+Copyright  (c)  2011-2012  The TIPO Team.
+All rights reserved.

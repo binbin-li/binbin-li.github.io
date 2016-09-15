@@ -1,0 +1,17 @@
+
+(IMPORTANT) Please follow the instruction strictly!
+
+Instruction:
+
+1. Please load the lexicon: Lexicon --> Load lexicon...
+   (BE CAREFUL! NEVER choose a non-dictionary file)
+
+2. Input texts by yourself, or open a text file.
+   (NOTICE: The text file must be encoded as UTF-8)
+
+3. Once you are ready, just click the "OK" button.
+
+4. Choose one sentence in the scrollbar to segment.
+   (DO NOT input an invalid number)
+
+5. See the result of word segmentation.

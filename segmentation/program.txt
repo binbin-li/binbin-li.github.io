@@ -1,0 +1,15 @@
+
+Functions of this program:
+
+1. Load a lexicon
+2. Load a rule file
+3. Open texts in a file
+4. Sentence segmentation
+5. Word segmentation
+6. Add a new word
+7. Add a new rule
+8. Save the result
+
+Last update: 2012.1.1
+
+           ^_^

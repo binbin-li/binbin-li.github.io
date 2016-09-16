@@ -16,17 +16,17 @@ $(document).ready( function() {
 	$('#tab-about').click(function() {
 	  $logo.slideUp('slow');
 	});	
-function animMeter(){
-    $(".meter > span").each(function() {
-                $(this)
-                    .data("origWidth", $(this).width())
-                    .width(0)
-                    .animate({
-                        width: $(this).data("origWidth")
-                    }, 1200);
-            });
-}
-animMeter();
+	function animMeter(){
+			$(".meter > span").each(function() {
+									$(this)
+											.data("origWidth", $(this).width())
+											.width(0)
+											.animate({
+													width: $(this).data("origWidth")
+											}, 1200);
+							});
+	}
+	animMeter();
 
       $('#tab-container').easytabs({
         animate			: true,
